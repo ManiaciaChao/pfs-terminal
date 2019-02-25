@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "./build/",
+        "target": "esnext",
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "module": "commonJS",
+        "strictNullChecks": true,
+        "noUnusedLocals": true
+    },
+    "include": ["./src/**/*"]
+}

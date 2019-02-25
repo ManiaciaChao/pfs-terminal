@@ -1,0 +1,14 @@
+{
+    "name": "pfs-terminal",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "maniacata",
+    "license": "MIT",
+    "dependencies": {
+        "@types/chalk": "^2.2.0",
+        "@types/minimist": "^1.2.0",
+        "chalk": "^2.4.2",
+        "minimist": "^1.2.0",
+        "typescript": "^3.3.3333"
+    }
+}
